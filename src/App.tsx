@@ -95,6 +95,7 @@ function App() {
         <footer className="bg-blue-800 text-white py-4 mt-8">
           <div className="container mx-auto px-4 text-center">
             <p>Flutter Widgets Essenciais - Um guia completo para iniciantes</p>
+            <p>Feito com carinho pela professora Sandra Alves </p>
           </div>
         </footer>
       </div>
